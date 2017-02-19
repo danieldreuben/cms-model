@@ -1,0 +1,14 @@
+com\ros\cms\AnnotationTestBean.class
+com\ros\cms\dto\Order.class
+com\ros\cms\component\CmsOrderComponent.class
+com\ros\cms\service\JerseyConfig.class
+com\ros\cms\SecurityConfig.class
+com\ros\cms\CustomAuthenticationProvider.class
+com\ros\cms\CustomFilter.class
+com\ros\cms\RestfulServiceAspect.class
+com\ros\cms\SpringConfiguration.class
+com\ros\cms\UserDetailServiceImpl.class
+com\ros\cms\service\TestJerseyController.class
+com\ros\cms\dto\Shipper.class
+com\ros\cms\Application.class
+com\ros\cms\IJmxTestBean.class
